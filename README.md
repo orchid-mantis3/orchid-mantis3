@@ -19,7 +19,7 @@ Currently interested in:
 
 ## Featured Projects
 
-### [SitRep Calendar](https://github.com/cse110-sp26-group13/CSE-110-SE-SitRep)
+### [SitRep Calendar](https://cse110-sp26-group13.github.io/CSE-110-SE-SitRep/splash.html)
 
 **Software Engineering Project | JavaScript, Supabase, PostgreSQL, GitHub API**
 
