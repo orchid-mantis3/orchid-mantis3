@@ -4,10 +4,9 @@ I'm a third year Computer Science student at UC San Diego interested in software
 
 Currently interested in:
 
-* Game Development with Unity and C#
+* Game Development with Unity
 * Software Engineering and Collaborative Development
 * Full-Stack Web Development
-* AI and LLM Applications
 
 ## Technical Skills
 
