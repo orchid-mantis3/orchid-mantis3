@@ -12,7 +12,7 @@ Currently interested in:
 
 **Languages:** Python, C#, Java, JavaScript, HTML, CSS
 
-**Technologies & Tools:** Unity, React, Next.js, Node.js, Supabase, PostgreSQL, Firebase, Git, GitHub, Vercel
+**Technologies & Tools:** Unity, React, Next.js, Node.js, Supabase, Firebase, Git, GitHub, Vercel
 
 ---
 
